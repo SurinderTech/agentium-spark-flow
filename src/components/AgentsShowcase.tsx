@@ -1,49 +1,55 @@
 import { AgentCard } from "./AgentCard";
-import { Briefcase, ShoppingCart, MessageSquare, TrendingUp, Mail, Calendar } from "lucide-react";
+import { Briefcase, ShoppingCart, MessageSquare, Mail, Calendar, UserCheck } from "lucide-react";
 
 export const AgentsShowcase = () => {
   const agents = [
     {
       icon: Briefcase,
-      title: "Job Hunter Agent",
-      description: "Automatically finds and applies to jobs matching your profile across multiple platforms.",
-      features: ["Auto-apply to jobs", "Resume optimization", "Interview scheduling"],
+      title: "Job Finder Agent",
+      description: "Automate your job search with AI-powered matching and applications",
+      features: ["Multi-platform job scanning", "AI-powered matching", "Auto-apply to positions"],
       gradient: "primary" as const,
+      agentId: "job-finder",
     },
     {
       icon: ShoppingCart,
       title: "E-commerce Assistant",
-      description: "Manages your online store, handles customer inquiries, and optimizes pricing.",
-      features: ["24/7 customer support", "Inventory management", "Smart pricing"],
+      description: "Manage inventory, orders, and customer support automatically",
+      features: ["Inventory management", "Order processing", "Customer support automation"],
       gradient: "secondary" as const,
+      agentId: "ecommerce",
+    },
+    {
+      icon: Mail,
+      title: "Email Assistant",
+      description: "Smart email management with automated responses and categorization",
+      features: ["Smart inbox sorting", "Automated responses", "Priority detection"],
+      gradient: "accent" as const,
+      agentId: "email-assistant",
     },
     {
       icon: MessageSquare,
       title: "Social Media Manager",
-      description: "Creates, schedules, and publishes engaging content across all your social platforms.",
-      features: ["Content generation", "Auto-scheduling", "Engagement tracking"],
-      gradient: "accent" as const,
-    },
-    {
-      icon: TrendingUp,
-      title: "Market Analyst",
-      description: "Monitors market trends, analyzes data, and provides actionable investment insights.",
-      features: ["Real-time tracking", "Trend analysis", "Alert notifications"],
+      description: "Automate posting, engagement, and analytics across platforms",
+      features: ["Multi-platform posting", "Engagement automation", "Analytics tracking"],
       gradient: "primary" as const,
-    },
-    {
-      icon: Mail,
-      title: "Email Automation",
-      description: "Drafts, sends, and manages your emails with intelligent prioritization and responses.",
-      features: ["Smart replies", "Email categorization", "Follow-up automation"],
-      gradient: "secondary" as const,
+      agentId: "social-media",
     },
     {
       icon: Calendar,
-      title: "Schedule Optimizer",
-      description: "Manages your calendar, books meetings, and optimizes your daily schedule.",
-      features: ["Auto-scheduling", "Meeting coordination", "Time blocking"],
+      title: "Smart Scheduler",
+      description: "Intelligent meeting and task scheduling with conflict resolution",
+      features: ["Auto-scheduling", "Conflict resolution", "Calendar optimization"],
+      gradient: "secondary" as const,
+      agentId: "scheduler",
+    },
+    {
+      icon: UserCheck,
+      title: "Recruitment Agent",
+      description: "Streamline hiring with automated candidate screening and outreach",
+      features: ["Resume screening", "Automated outreach", "Interview scheduling"],
       gradient: "accent" as const,
+      agentId: "recruitment",
     },
   ];
 

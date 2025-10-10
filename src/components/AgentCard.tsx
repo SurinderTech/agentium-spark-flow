@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { LucideIcon } from "lucide-react";
+import { useNavigate } from "react-router-dom";
 
 interface AgentCardProps {
   icon: LucideIcon;
@@ -7,9 +8,12 @@ interface AgentCardProps {
   description: string;
   features: string[];
   gradient: "primary" | "secondary" | "accent";
+  agentId: string;
 }
 
-export const AgentCard = ({ icon: Icon, title, description, features, gradient }: AgentCardProps) => {
+export const AgentCard = ({ icon: Icon, title, description, features, gradient, agentId }: AgentCardProps) => {
+  const navigate = useNavigate();
+  
   const gradientClasses = {
     primary: "gradient-primary",
     secondary: "gradient-secondary",
@@ -22,8 +26,15 @@ export const AgentCard = ({ icon: Icon, title, description, features, gradient }
     accent: "glow-accent",
   };
 
+  const handleClick = () => {
+    navigate(`/agent/${agentId}`);
+  };
+
   return (
-    <div className="group relative glass-card rounded-2xl p-6 hover:scale-105 transition-all duration-300 cursor-pointer">
+    <div 
+      onClick={handleClick}
+      className="group relative glass-card rounded-2xl p-6 hover:scale-105 transition-all duration-300 cursor-pointer"
+    >
       {/* Glow effect on hover */}
       <div className={`absolute inset-0 ${glowClasses[gradient]} opacity-0 group-hover:opacity-50 rounded-2xl transition-opacity duration-300 -z-10`} />
       
