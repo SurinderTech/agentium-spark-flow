@@ -25,5 +25,7 @@ Settings >
 
 Domains >
 
- and click Connect Domain.
+ and
+ 
+ click Connect Domain.
 
