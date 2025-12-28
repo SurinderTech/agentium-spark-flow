@@ -23,5 +23,7 @@ Project >
 
 Settings >
 
-Domains and click Connect Domain.
+Domains >
+
+ andclick Connect Domain.
 
