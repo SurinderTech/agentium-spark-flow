@@ -8,7 +8,6 @@ Yes, you can!
 
 To connect a domain, navigate to 
 
-Project > 
 
 Settings >
 
