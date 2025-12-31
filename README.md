@@ -1,6 +1,5 @@
 
-- React
-- shadcn-ui
+
 - project?
 
 
