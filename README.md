@@ -1,9 +1,7 @@
 
 - React
 - shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
+- project?
 
 
 Yes, you can!
