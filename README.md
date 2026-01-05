@@ -71,10 +71,6 @@ graph TD
 
 ---
 
-## 🌐 **Landing Page (Code)**
-
-
-
 ---
 
 ## 🔢 **Repo Counter & Visitors**
