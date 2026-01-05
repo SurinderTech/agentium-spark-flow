@@ -17,9 +17,9 @@ h
   From job hunting to e-commerce automation, let intelligent agents handle your repetitive tasks.</h1>
 ---
 
-## 🌐 **Glass UI Preview**
+## 🌐 **UI Preview**
 
-<img src=""
+<img src="Screenshot (862).png">
 
 ---
 
