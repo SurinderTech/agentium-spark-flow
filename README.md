@@ -22,9 +22,9 @@ h
 | ----------| -----------------|
 | <img src="Screenshot (862).png">| <img src="Screenshot (863).png">|
 | Features | Pricing |
-| ----------| -----------------|
+| | |
 | <img src="Screenshot (864).png">| <img src="Screenshot (865).png">|
-
+<img src="Screenshot (865).png">
 ---
 
 ## 🧠 **Vision**
