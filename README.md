@@ -24,7 +24,10 @@ h
 | Features | Pricing |
 | | |
 | <img src="Screenshot (864).png">| <img src="Screenshot (865).png">|
-<img src="Screenshot (865).png">
+
+
+### About
+<img src="Screenshot (866).png">
 ---
 
 ## 🧠 **Vision**
@@ -70,45 +73,7 @@ graph TD
 
 ## 🌐 **Landing Page (Code)**
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(40px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .animate-fadeInUp { animation: fadeInUp 1s ease-out; }
-  </style>
-</head>
 
-<body class="bg-black text-white font-sans">
-
-<section class="h-screen flex flex-col justify-center items-center text-center px-4 animate-fadeInUp">
-  <h1 class="text-6xl font-bold animate-pulse">Automate Everything</h1>
-  <p class="text-xl text-gray-400 mt-4">Deploy AI Agents that work 24/7</p>
-
-  <div class="flex gap-4 mt-8">
-    <button class="px-6 py-3 bg-blue-600 rounded-xl hover:scale-110 transition duration-300 animate-bounce">
-      Get Started
-    </button>
-    <button class="px-6 py-3 border border-gray-600 rounded-xl hover:bg-gray-900 transition">
-      Watch Demo
-    </button>
-  </div>
-
-  <div class="mt-16 grid grid-cols-3 gap-8 text-gray-300">
-    <div><h2 class="text-3xl">50K+</h2><p>Active Agents</p></div>
-    <div><h2 class="text-3xl">99.9%</h2><p>Uptime</p></div>
-    <div><h2 class="text-3xl">24/7</h2><p>Availability</p></div>
-  </div>
-</section>
-
-</body>
-</html>
-```
 
 ---
 
