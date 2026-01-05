@@ -20,7 +20,7 @@ h
 ## 🌐 **UI Preview**
 | Home page | Ai Agent section |
 | ----------| -----------------|
-| <img src="Screenshot (862).png">| <img src="">|
+| <img src="Screenshot (862).png">| <img src="Screenshot (863).png">|
 
 ---
 
