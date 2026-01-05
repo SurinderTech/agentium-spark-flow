@@ -12,6 +12,9 @@ h
 
 </div>
 
+
+<h1>Deploy powerful AI agents that work 24/7.<br>
+  From job hunting to e-commerce automation, let intelligent agents handle your repetitive tasks.</h1>
 ---
 
 ## 🌐 **Glass UI Preview**
