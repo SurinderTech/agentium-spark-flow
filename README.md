@@ -21,6 +21,9 @@ h
 | Home page | Ai Agent section |
 | ----------| -----------------|
 | <img src="Screenshot (862).png">| <img src="Screenshot (863).png">|
+| Features | Footer |
+| ----------| -----------------|
+| <img src="">| <img src="">|
 
 ---
 
