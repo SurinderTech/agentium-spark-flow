@@ -2,12 +2,13 @@
 
 # ⚡ **Agentium — AI Agents that work, 24/7**
 
-![AI Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-![Agents](https://img.shields.io/badge/🤖%20Active%20Agents-50K%2B-00eaff?style=for-the-badge)
-![Uptime](https://img.shields.io/badge/⚡%20Uptime-99.9%25-39ff14?style=for-the-badge)
-![Availability](https://img.shields.io/badge/⏳%20Running-24%2F7-ffff00?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Private-blueviolet?style=for-the-badge)
+![AI Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp0MHFsbWpyeWkwendtOTVzbzRwbWRucWs2bnczajdwMjl6cjNiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7zGzxaFXeMb5dtz5ah/giphy.gif)
+h
+<br>
+![Agents](https://img.shields.io/badge/🤖%20Active%20Agents-50%2B-00eaff?style=for-the-badge)<br>
+![Uptime](https://img.shields.io/badge/⚡%20Uptime-99.9%25-39ff14?style=for-the-badge)<br>
+![Availability](https://img.shields.io/badge/⏳%20Running-24%2F7-ffff00?style=for-the-badge)<br>
+![License](https://img.shields.io/badge/License-Private-blueviolet?style=for-the-badge)<br>
 
 </div>
 
@@ -15,11 +16,7 @@
 
 ## 🌐 **Glass UI Preview**
 
-<div align="center">
-
-![Glass UI](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
-
-</div>
+>
 
 ---
 
