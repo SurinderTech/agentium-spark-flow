@@ -83,15 +83,6 @@ graph TD
 
 ---
 
-## 🤝 **Contributors & Support**
-
-<div align="center">
-
-![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Surinder-Kumar/Agentium?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Surinder-Kumar/Agentium?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -114,6 +105,43 @@ vercel --prod
 ```
 
 ---
+
+## 🤝 Contributions & Community
+
+⭐ **If you like this project, consider giving it a star!**  
+🍴 **Feel free to fork** and explore, modify, or build on top of it.  
+
+### 🚀 We welcome:
+- Pull Requests  
+- Feature ideas  
+- Bug reports  
+- Optimizations  
+- Documentation improvements  
+
+📌 **Contributions are always welcome!**  
+Just fork the repo, make your changes, and open a PR.
+
+---
+
+## 📊 GitHub Stats We Appreciate
+![GitHub forks](https://img.shields.io/github/forks/OWNER/REPO?label=Forks&style=social)
+![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?label=Stars&style=social)
+
+---
+
+## 📬 Reach Out
+💬 Have ideas or want to collaborate? **Feel free to reach out anytime!**  
+I’m always open to discuss tech, business ideas, automation, and AI projects.
+
+---
+
+## 📜 License
+This project is open-source and available under the **MIT License**.
+
+---
+
+## 🙌 Support & Engagement
+Your **Forks ⭐ Stars ⭐ and Contributions** keep this project alive and improving!
 
 <div align="center">
 
