@@ -86,15 +86,54 @@ graph TD
 
 ---
 
-## 🚀 **Deploy on Vercel**
+🚀 Installation
 
-```bash
+Follow these steps to get Agentium-Spark-Flow up and running locally.
+
+1. Clone the repo
+git clone https://github.com/SurinderTech/agentium-spark-flow.git
+cd agentium-spark-flow
+
+2. Install dependencies
+
+Make sure you have Node.js (v18+) installed, then run:
+
+npm install
+
+3. Environment (if any)
+
+If your project uses environment variables, copy or create a .env file.
+
+cp .env.example .env
+# then edit .env with your keys / config
+
+
+If there’s no .env.example, create .env and add any environment config needed (API keys, database URLs, etc.). 
+GitHub
+
+4. Start the development server
+npm run dev
+
+
+This should launch your app on a local development port (often http://localhost:3000 or as defined in Vite). 
+GitHub
+
+5. Build for production
+npm run build
+
+6. Deploy (optional)
+
+You can deploy to Vercel:
+
 npm i -g vercel
 vercel login
 vercel --prod
-```
 
----
+### 📌 Notes
+
+Make sure you have Git & Node.js/NPM installed on your system.
+
+If you add backend services (e.g., databases) later, update the environment variables accordingly on both local and deployment environments.
 
 ## 💬 **Connect with me**
 
