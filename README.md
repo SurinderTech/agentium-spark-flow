@@ -86,21 +86,26 @@ graph TD
 
 ---
 
-🚀 Installation
+### 🚀 Installation
 
 Follow these steps to get Agentium-Spark-Flow up and running locally.
 
-1. Clone the repo
+### 1. Clone the repo
+
+```
 git clone https://github.com/SurinderTech/agentium-spark-flow.git
 cd agentium-spark-flow
+```
 
-2. Install dependencies
+
+### 2. Install dependencies
 
 Make sure you have Node.js (v18+) installed, then run:
 
+```
 npm install
-
-3. Environment (if any)
+```
+### 3. Environment (if any)
 
 If your project uses environment variables, copy or create a .env file.
 
@@ -111,17 +116,22 @@ cp .env.example .env
 If there’s no .env.example, create .env and add any environment config needed (API keys, database URLs, etc.). 
 GitHub
 
-4. Start the development server
+### 4. Start the development server
+
+```
 npm run dev
+```
 
-
-This should launch your app on a local development port (often http://localhost:3000 or as defined in Vite). 
+### This should launch your app on a local development port (often http://localhost:3000 or as defined in Vite). 
 GitHub
 
 5. Build for production
-npm run build
 
-6. Deploy (optional)
+```
+npm run build
+```
+
+### 6. Deploy (optional)
 
 You can deploy to Vercel:
 
@@ -135,13 +145,7 @@ Make sure you have Git & Node.js/NPM installed on your system.
 
 If you add backend services (e.g., databases) later, update the environment variables accordingly on both local and deployment environments.
 
-## 💬 **Connect with me**
 
-```
-👤 Surinder Kumar  
-💼 B.Tech CSE • AI & Automation Agent Builder  
-📩 DM anytime for collabs, ideas, or building agents together.
-```
 
 ---
 
@@ -190,3 +194,11 @@ Your **Forks ⭐ Stars ⭐ and Contributions** keep this project alive and impro
 *Built with ❤️ for the future. Running today.*
 
 </div>
+
+## 💬 **Connect with me**
+
+```
+👤 Surinder Kumar  
+💼 B.Tech CSE • AI & Automation Agent Builder  
+📩 DM anytime for collabs, ideas, or building agents together.
+```
