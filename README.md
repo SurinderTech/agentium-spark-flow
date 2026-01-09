@@ -175,6 +175,7 @@ Just fork the repo, make your changes, and open a PR.
 ## 📬 Reach Out
 💬 Have ideas or want to collaborate? **Feel free to reach out anytime!**  
 I’m always open to discuss tech, business ideas, automation, and AI projects.
+📩Email: surinderkumar3182@gmail.com
 
 ---
 
