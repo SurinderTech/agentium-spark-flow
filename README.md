@@ -135,8 +135,10 @@ npm run build
 ### 6. Deploy (optional)
 
 You can deploy to Vercel:
+```
 
 npm i -g vercel
+```
 vercel login
 vercel --prod
 
