@@ -188,7 +188,7 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## 🙌 Support & Engagement
-Your **Forks ⭐ Stars ⭐ and Contributions** keep this project alive and improving!
+Your **Forks ⭐ Stars ⭐ and Contributions** can keep this project alive and improving!
 
 <div align="center">
 
